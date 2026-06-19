@@ -1,0 +1,10 @@
+*.pdf
+backup
+temp_images
+old
+05_splitDoc
+*.csv
+*.db
+simulate_db.py
+report.md
+.env
